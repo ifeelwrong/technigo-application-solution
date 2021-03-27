@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:800|Quicksand|Varela+Round&display=swap');
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  color: #652D91;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+.main-container {
+  margin: 60px auto;
+  max-width: 800px;
+  padding: 20px 40px;
+  background-color: #fff;
+}
+
+.main-header {
+  padding-bottom: 15px;
+}
+
+.main-content {
+  font: 16px/22px 'Quicksand';
+  color: #5f5f5f;
+}
